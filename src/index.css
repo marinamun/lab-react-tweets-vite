@@ -79,7 +79,7 @@ button:focus-visible {
 
 .top {
   display: flex;
-  line-height: 1.4rem;
+  line-height: 1rem;
 }
 
 .more {
@@ -128,10 +128,8 @@ button:focus-visible {
 }
 
 .actions {
-  padding: 5px 5px;
   width: 360px;
   display: flex;
   justify-content: space-between;
   color: #536471;
-  margin: 0 auto;
 }
